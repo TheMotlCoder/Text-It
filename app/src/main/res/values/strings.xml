@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Text It</string>
+    <string name="title_activity_preview">Preview</string>
+    <string name="title_activity_text_it">Text It!</string>
+
+    <string name="phone_number">Phone Number</string>
+    <string name="default_indicator">✘</string>
+    <string name="message">Message</string>
+    <string name="number_to_send">Number to Send</string>
+    <string name="next">Next</string>
+
+    <string name="how_often">Time Between Messages</string>
+    <string name="enter_one_number">Enter One Number:</string>
+    <string name="number_of_seconds"># of seconds</string>
+    <string name="range_of_time">Or Enter a Range of Time:</string>
+
+    <string name="time_between_texts">Time Between Texts</string>
+    <string name="send_exclamation">Send!</string>
+    <string name="default_phone_number">555-555-5555</string>
+    <string name="default_message">Hey. How\'s it going?</string>
+    <string name="default_number_of_texts">9001</string>
+    <string name="default_time_delay">5 seconds</string>
+    <string-array name="drawer_items">
+        <item>Home</item>
+        <item>History</item>
+        <item>Settings</item>
+    </string-array>
+
+</resources>
