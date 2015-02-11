@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class StartActivity extends Activity {
+public class MainActivity extends Activity {
     private EditText editPhoneNumber;
     private TextView validIndicator;
     private EditText editMessage;
