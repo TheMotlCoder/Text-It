@@ -5,4 +5,17 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="HeaderTextView" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingTop">24dp</item>
+    </style>
+
+    <style name="HeaderTextView.First" parent="HeaderTextView">
+        <item name="android:paddingTop">8dp</item>
+    </style>
+
+    <style name="HeaderTextView.Secondary" parent="HeaderTextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">8dp</item>
+    </style>
 </resources>
